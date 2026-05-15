@@ -3,7 +3,7 @@
 3 года фриланса. Делаю веб-приложения и инструменты end-to-end — от архитектуры до деплоя.
 
 **Живые продукты**
-- [tgconstruct.ru](https://tgconstruct.vercel.app/) — конструктор Telegram-ботов с визуальным node-редактором. React + Node.js, соло-проект.
+- [tgconstruct.ru](https://tgconstruct.vercel.app/) — (Превью) конструктор Telegram-ботов с визуальным node-редактором. React + Node.js, соло-проект.
 - [colorauction.ru](https://colorauction.ru) — аукционная SaaS с интеграцией онлайн-касс.
 
 **Сейчас**
