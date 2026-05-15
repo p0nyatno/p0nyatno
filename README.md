@@ -1,16 +1,16 @@
-## Hi there 👋
+## Fullstack developer — React, Node.js, TypeScript
 
-<!--
-**p0nyatno/p0nyatno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3 года фриланса. Делаю веб-приложения и инструменты end-to-end — от архитектуры до деплоя.
 
-Here are some ideas to get you started:
+**Живые продукты**
+- [tgconstruct.ru](https://tgconstruct.ru) — конструктор Telegram-ботов с визуальным node-редактором. React + Node.js, соло-проект.
+- [colorauction.ru](https://colorauction.ru) — аукционная SaaS с интеграцией онлайн-касс.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Сейчас**
+Мультиплеерный dungeon crawler на Godot 4 ([pixel-bungeon](https://github.com/ponyatno/pixel-bungeon)) + интерактивные веб-демки на WebGL.
+
+**Стек**
+TypeScript · React · Node.js · PostgreSQL · WebGL / Three.js · Godot · PHP
+
+**Связь**
+Telegram: [@P0nya7no](https://t.me/P0nya7no)
