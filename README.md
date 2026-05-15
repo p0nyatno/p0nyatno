@@ -4,7 +4,7 @@
 
 **Живые продукты**
 - [tgconstruct.ru](https://tgconstruct.vercel.app/) — (Превью) конструктор Telegram-ботов с визуальным node-редактором. React + Node.js, соло-проект.
-- [colorauction.ru](https://colorauction.ru) — аукционная SaaS с интеграцией онлайн-касс.
+- [colorauction.ru](https://colorauction.vercel.app/) — (Превью) аукционная SaaS с интеграцией онлайн-касс и крипто-кошельков.
 
 **Сейчас**
 Мультиплеерный dungeon crawler на Godot 4 ([pixel-bungeon](https://github.com/ponyatno/pixel-bungeon)) + интерактивные веб-демки на WebGL.
