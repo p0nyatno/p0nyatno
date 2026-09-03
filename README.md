@@ -13,4 +13,4 @@
 TypeScript · React · Node.js · PostgreSQL · WebGL / Three.js · Godot · PHP
 
 **Связь**
-Telegram: [@P0nya7no](https://t.me/P0nya7no)
+Telegram: @ryoukaissu
