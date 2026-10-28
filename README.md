@@ -1,13 +1,10 @@
-## Fullstack developer — React, Node.js, TypeScript
+## Fullstack developer - React, Node.js, TypeScript
 
-3 года фриланса. Делаю веб-приложения и инструменты end-to-end — от архитектуры до деплоя.
+3 года фриланса. Делаю веб-приложения и инструменты end-to-end - от архитектуры до деплоя.
 
 **Живые продукты**
-- [tgconstruct.ru](https://tgconstruct.vercel.app/) — (Превью) конструктор Telegram-ботов с визуальным node-редактором. React + Node.js, соло-проект.
-- [colorauction.ru](https://colorauction.vercel.app/) — (Превью) аукционная SaaS с интеграцией онлайн-касс и крипто-кошельков.
-
-**Стек**
-TypeScript · React · Node.js · PostgreSQL · WebGL / Three.js · Godot · PHP
+- [tgconstruct.ru](https://tgconstruct.vercel.app/) - (Превью) конструктор Telegram-ботов с визуальным node-редактором. React + Node.js, соло-проект.
+- [colorauction.ru](https://colorauction.vercel.app/) - (Превью) аукционная SaaS с интеграцией онлайн-касс и крипто-кошельков.
 
 **Связь**
 Telegram: @ryoukaissu
